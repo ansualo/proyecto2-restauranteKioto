@@ -26,8 +26,9 @@ a{
     color: blanchedalmond;
 }
 
-.galeria{
+.galeria, .contacto{
     background-image: url(../img/fondoGaleria.jpg);
     background-repeat: repeat;
-    background-position: center;   
+    background-position: center;  
+    height: 100vh; 
 }
