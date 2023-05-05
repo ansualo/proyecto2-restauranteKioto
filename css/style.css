@@ -27,10 +27,11 @@ a{
 }
 
 .galeria, .contacto{
-    background-image: url(../img/fondoGaleria.jpg);
-    background-repeat: repeat;
-    background-position: center;  
-    background-size: cover;
+    background: radial-gradient(circle farthest-corner at bottom center, #eeead3 0%, #98723a 100%);
+}
+
+.beige{
+    background-color: beige;
 }
 
 .mapa{
