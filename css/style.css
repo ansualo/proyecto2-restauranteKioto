@@ -22,12 +22,21 @@ body{
 }
 
 .galeria, .contacto, .menu{
-    background: radial-gradient(circle farthest-corner at bottom center, #fdefe1 0%, #675346f3 100%);
+    background: radial-gradient(circle farthest-corner at bottom center, #fdefe1 0%, #746459f3 100%);
     overflow: hidden;
 }
 
 .reservas{
     background-image: url(../img/restaurante8.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    overflow-x: hidden;
+}
+
+.realizada{
+    background-image: url(../img/restaurante7.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
