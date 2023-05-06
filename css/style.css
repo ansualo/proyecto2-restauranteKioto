@@ -21,9 +21,17 @@ body{
     height: 100vh;
 }
 
-.galeria, .contacto, .menu{
+.galeria, .menu{
     background: radial-gradient(circle farthest-corner at bottom center, #fdefe1 0%, #746459f3 100%);
-    overflow: hidden;
+    overflow-x: hidden;
+}
+
+.contacto{
+    background-image: url(../img/paper.avif);
+    background-size: cover;
+    background-repeat: repeat;
+    overflow-x: hidden;
+
 }
 
 .reservas{
