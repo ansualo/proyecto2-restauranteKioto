@@ -22,7 +22,7 @@ body{
 }
 
 .galeria, .contacto, .menu{
-    background: radial-gradient(circle farthest-corner at bottom center, #e0c1a6 0%, #6c4d31ea 100%);
+    background: radial-gradient(circle farthest-corner at bottom center, #fdefe1 0%, #675346f3 100%);
     overflow: hidden;
 }
 
