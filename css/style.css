@@ -57,14 +57,14 @@ a{
     color: blanchedalmond;
 }
 
-.beige{
-    background-color: beige;
-}
-
 .mapa{
     width: 25em;
     height: 15em;
     padding: 0;
     margin: 0;
+}
+
+.buttonHover:hover{
+    color: rgb(200, 75, 75);
 }
 
