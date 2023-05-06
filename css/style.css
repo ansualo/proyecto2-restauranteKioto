@@ -21,10 +21,9 @@ body{
     height: 100vh;
 }
 
-.galeria, .contacto{
-    background: radial-gradient(circle farthest-corner at bottom center, #eeead3 0%, #98723a 100%);
-    overflow-x: hidden;
-    height: 100vh;
+.galeria, .contacto, .menu{
+    background: radial-gradient(circle farthest-corner at bottom center, #e0be96 0%, #6c4928 100%);
+    overflow: hidden;
 }
 
 .reservas{
@@ -33,7 +32,7 @@ body{
     background-size: cover;
     background-position: center;
     height: 100vh;
-    overflow: none;
+    overflow-x: hidden;
 }
 
 a{
