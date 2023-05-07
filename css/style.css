@@ -26,7 +26,7 @@ body{
     overflow-x: hidden;
 }
 
-.contacto{
+.contacto, .bebidas{
     background-image: url(../img/paper.avif);
     background-size: cover;
     background-repeat: repeat;
@@ -41,6 +41,7 @@ body{
     background-position: center;
     height: 100vh;
     overflow-x: hidden;
+    background-attachment: fixed;
 }
 
 .realizada{
@@ -68,3 +69,6 @@ a{
     color: rgb(200, 75, 75);
 }
 
+td{
+    width: 20em;
+}
